@@ -15,16 +15,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6820588014088571
-  brandStrength: 0.3051493791863322
-  lightness: 0.9898851762991399
+  saturation: 0.6135068635921925
+  brandStrength: 0.5322659320663661
+  lightness: 0.5976427653804421
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  rhythmicContrast: 0.6809239010326564
-typography_spectrum: 0.8025067078415304
-layout_spectrum: 0.9274973
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  rhythmicContrast: 0.47698613558895886
+typography_spectrum: 0.009077672148123384
+layout_spectrum: 0.41207923158071935
 name: ADRIANO JACOMETO
