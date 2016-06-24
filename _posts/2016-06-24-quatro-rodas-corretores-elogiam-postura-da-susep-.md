@@ -18,8 +18,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.cqcs.com.br/noticia/quatro-rodas-corretores-elogiam-postura-da-susep/
 title: 'Quatro Rodas: corretores elogiam postura da Susep-'
-datePublished: '2016-06-24T16:51:38.478Z'
-dateModified: '2016-06-24T15:49:00.991Z'
+datePublished: '2016-06-24T16:51:42.407Z'
+dateModified: '2016-06-24T15:09:01.949Z'
 starred: false
 sourcePath: _posts/2016-06-24-quatro-rodas-corretores-elogiam-postura-da-susep-.md
 inFeed: true
