@@ -14,6 +14,8 @@ color:
     - '#36B1BF'
 opengraph:
   type: 'https://www.facebook.com/FanpageJACOMETOSEGUROS'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae1f342-874a-4706-98fd-32224f515389.jpg
 layout_spectrum: 0.7902311258949339
 analytics:
   google: UA-41110322-1
