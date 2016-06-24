@@ -1,30 +1,23 @@
+typography_spectrum: 0.858986887615174
+color:
+  brandStrength: 0.5956344020087272
+  lightness: 0.3880802746862173
+  saturation: 0.18826007819734514
+  rhythmicContrast: 0.21246150974184275
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+opengraph:
+  type: 'https://www.facebook.com/FanpageJACOMETOSEGUROS'
+layout_spectrum: 0.7902311258949339
 author:
   name: Adriano Jacometo
-  email: adriano@jacometo.combr
-title: seguros
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0.6854300764389336
-  brandStrength: 0.6432952233590186
-  lightness: 0.48467151587828994
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.3425696617923677
-typography_spectrum: 0.5297614790033549
-layout_spectrum: 0.6075656425673515
+  email: adriano@jacometo.com.br
+  url: www.jacometoseguros.com.br
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6698267-8962-4b6e-acdb-038bf3c310c4.png
 name: ADRIANO JACOMETO
+title: seguros
