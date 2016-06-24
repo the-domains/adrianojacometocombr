@@ -1,4 +1,6 @@
 typography_spectrum: 0.858986887615174
+content_rating:
+  adult: true
 color:
   brandStrength: 0.5956344020087272
   lightness: 0.3880802746862173
