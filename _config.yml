@@ -1,4 +1,3 @@
-layout_spectrum: 0.7902311258949339
 typography_spectrum: 0.858986887615174
 color:
   brandStrength: 0.5956344020087272
@@ -11,4 +10,9 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-name: ADRIANOJACOMETO.com.br
+layout_spectrum: 0.7902311258949339
+author:
+  name: Adriano Jacometo
+  email: adriano@jacometo.combr
+name: ADRIANO JACOMETO
+title: seguros
