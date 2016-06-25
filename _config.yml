@@ -1,7 +1,20 @@
+typography_spectrum: 0.7264041954185814
+color:
+  saturation: 0.7781114680692554
+  brandStrength: 0.9600997250527143
+  lightness: 0.7715894894208759
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  rhythmicContrast: 0.4758779045660049
+layout_spectrum: 0.23449523467570543
 author:
   name: Adriano Jacometo
   email: adriano@jacometo.combr
-title: seguros
+name: ADRIANO JACOMETO
 collections:
   - index:
       path: /
@@ -14,17 +27,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.1495555865112692
-  brandStrength: 0.1336410769727081
-  lightness: 0.4885393294971436
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  rhythmicContrast: 0.5460043968632817
-typography_spectrum: 0.7264041954185814
-layout_spectrum: 0.08319919114001095
-name: ADRIANO JACOMETO
+title: seguros
