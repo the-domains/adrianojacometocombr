@@ -1,15 +1,15 @@
-typography_spectrum: 0.7264041954185814
+typography_spectrum: 0.22192744840867817
 color:
-  saturation: 0.7781114680692554
-  brandStrength: 0.9600997250527143
-  lightness: 0.7715894894208759
+  saturation: 0.1324383111204952
+  brandStrength: 0.33417177898809314
+  lightness: 0.10073224105872214
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  rhythmicContrast: 0.4758779045660049
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+  rhythmicContrast: 0.7591914492659271
 layout_spectrum: 0.23449523467570543
 author:
   name: Adriano Jacometo
