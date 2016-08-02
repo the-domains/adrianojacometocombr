@@ -1,18 +1,17 @@
 ---
 description: ''
-dateModified: '2016-06-24T17:48:59.131Z'
-datePublished: '2016-06-24T17:49:35.301Z'
+dateModified: '2016-08-02T17:55:27.585Z'
+datePublished: '2016-08-02T17:55:28.418Z'
 title: >-
   Seguro Pirata - Clube de Benefícios ,Associações e Cooperativas - ISSO É
   SEGURO?
 author: []
-starred: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fd45a78-a4a0-425e-9212-38e65770e6a0.jpg
 sourcePath: _posts/2016-06-24-seguro-pirata-clube-de-beneficios-associacoes-e-cooperati.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: seguro-pirata-clube-de-beneficios-associacoes-e-cooperati/index.html
 _type: MediaObject
 
 ---
