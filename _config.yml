@@ -15,6 +15,12 @@ author:
   name: Adriano Jacometo
   email: adriano@jacometo.combr
 name: ADRIANO JACOMETO
+navigation:
+  - name: >-
+      Seguro Pirata - Clube de Benefícios ,Associações e Cooperativas - ISSO É
+      SEGURO?
+    id: 0a8f0934-4e2e-4584-80ea-4cbe198bb719
+    type: content
 collections:
   - index:
       path: /
