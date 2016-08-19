@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-08-02T17:55:27.585Z'
-datePublished: '2016-08-02T17:55:28.418Z'
+dateModified: '2016-08-19T15:15:02.857Z'
+datePublished: '2016-08-19T15:15:04.335Z'
 title: >-
   Seguro Pirata - Clube de Benefícios ,Associações e Cooperativas - ISSO É
   SEGURO?
