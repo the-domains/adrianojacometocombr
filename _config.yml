@@ -1,16 +1,16 @@
-typography_spectrum: 0.22192744840867817
+layout_spectrum: 0.2815818276721984
+typography_spectrum: 0.7788757686503232
 color:
-  saturation: 0.1324383111204952
-  brandStrength: 0.33417177898809314
-  lightness: 0.10073224105872214
+  saturation: 0.39496355690062046
+  brandStrength: 0.09687493112869561
+  lightness: 0.6504450310021639
   brandColors:
-    - '#04BFBF'
-    - '#CAFCD8'
-    - '#F7E967'
-    - '#A9CF54'
-    - '#588F27'
-  rhythmicContrast: 0.7591914492659271
-layout_spectrum: 0.23449523467570543
+    - '#189AD5'
+    - '#0D2C53'
+    - '#0000FF'
+    - '#00FFFF'
+    - '#0D6995'
+  rhythmicContrast: 0.2806342141702771
 author:
   name: Adriano Jacometo
   email: adriano@jacometo.combr
